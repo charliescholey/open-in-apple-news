@@ -1,0 +1,12 @@
+2026-10-19 13:02:20.468 Df News[2714:591219] (TeaUI) Handling url route=openURL, url=https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html, options={prefersAnimations=false}
+2026-10-19 13:02:20.481 Df News[2714:591219] [com.apple.news:WebURLResolution] resolving web URL <private>
+2026-10-19 13:02:20.501 Df News[2714:591219] [com.apple.teaui:Navigation] Successfully navigated to activity: <articleWebLink(https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html)> using router <Router>
+2026-10-19 13:02:20.513 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 13:02:20.513 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 13:02:20.879 Df News[2714:591219] [com.apple.news:WebURLResolution] using bloom filter of length 143776, hash function count 10 to query <private>
+2026-10-19 13:02:20.881 Df News[2714:591219] [com.apple.news:WebURLResolution] fetching new bucket group config of version 2 because expiration date Sun Apr 27 18:53:47 2025 was in the past or cached version did not meet or exceed minimum version of 2
+2026-10-19 13:02:20.966 Df News[2714:591219] [com.apple.news:WebURLResolution] querying bucket
+2026-10-19 13:02:20.967 Df News[2714:591219] [com.apple.news:WebURLResolution] canonicalized URL is <private>
+2026-10-19 13:02:20.967 Df News[2714:591219] [com.apple.news:WebURLResolution] hash is <private>
+2026-10-19 13:02:20.967 Df News[2714:591219] [com.apple.news:WebURLResolution] bucket is 9594
+2026-10-19 13:02:20.967 Df News[2714:591219] [com.apple.news:WebURLResolution] trying fetch for lists through proxy

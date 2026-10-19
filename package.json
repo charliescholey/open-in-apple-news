@@ -1,0 +1,19 @@
+{
+  "name": "open-in-apple-news",
+  "version": "1.0.0",
+  "description": "Chrome extension for macOS that opens the article you're reading in the Apple News app.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliescholey/open-in-apple-news.git"
+  },
+  "scripts": {
+    "test": "node --test tests/url.test.mjs && /usr/bin/python3 -m unittest discover -s tests",
+    "test:e2e": "node --test --test-concurrency=1 tests/e2e.test.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.64.1"
+  }
+}

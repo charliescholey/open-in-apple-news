@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "name": "Open in Apple News",
+  "version": "1.0.0",
+  "description": "Open the article you're reading in the Apple News app on your Mac.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxhTjC1FDLSSAyrRx5/uOORAM4tkRXXgDRYmpdIBlOeBF2qUqxb37iLU3sqWPtsd+0NTBulII8wmHzvPj/VSeOGhiIKqyAdmXevCAvftXCKf26K9wEH+E0gqpKKH+eUuSnu4TyKmwLy6S+mrbGhqdV2BiTuWEhW6fWS80FtU/ufLmDznMfDhFtl/IQffFLUwsqzt8HKaU6n9/OnWrnW4Bcd/5ulhufLhCTLa1Bi33CSGkrus8qfVK+0A9SAu+0gWPCTC4L6Kn9+6AzYKC8+NqUYJDZ5CXtICCo1O0vkEJPYYmy1hoNDoNEV1rLXEJDLa7XUaXpx6JTj008UeQvErQoQIDAQAB",
+  "minimum_chrome_version": "116",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "nativeMessaging",
+    "storage",
+    "notifications"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Open in Apple News",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+N"
+      },
+      "description": "Open this article in Apple News"
+    }
+  }
+}

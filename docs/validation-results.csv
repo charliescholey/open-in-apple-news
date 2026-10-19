@@ -1,0 +1,56 @@
+set,url,status,verified,article_id,apple_news_headline,elapsed_ms
+answer-key,https://nymag.com/intelligencer/article/doj-ilhan-omar-probe.html,found,True,ARNqr1KcdQYatUbdiG8CI4g,DoJ’s Ilhan Omar Probe Reeks of Politics,1474
+answer-key,https://nymag.com/intelligencer/article/susie-wiles-donald-trump-white-house.html,found,True,AUaLxRx8ISrel4FKr2GHskA,Is Susie Wiles the Next Trump Woman Out the Door?,493
+answer-key,https://nymag.com/intelligencer/article/unhappy-trump-voters-are-the-midterms-difference-makers.html,found,True,Ac5WKrIIvThuW8jo2CrUbHA,Unhappy Trump Voters Are the Midterms Difference-Makers,525
+answer-key,https://www.bloomberg.com/news/articles/2026-10-18/election-rallies-that-swept-latin-america-face-reality-check,found,True,A7ndsfKXyQVWGaa_kd9gLig,Market Rallies That Swept Latin America Face Reality Check,586
+answer-key,https://www.bloomberg.com/news/articles/2026-10-19/avis-budget-car-stock-crashes-as-600-short-squeeze-rally-fully-unwinds,found,True,AH8I2Ci1RQtOX7uDZSrOchg,Avis Wipeout Erases Last Vestige of 600% Short Squeeze Rally,481
+answer-key,https://www.bloomberg.com/news/articles/2026-10-19/bank-of-america-sees-corporate-bonds-sales-in-africa-running-at-five-year-high,found,True,AladgZCKASQ-5J1fPkw5Q-Q,BofA Sees African Corporate Bond Sales at Five-Year High,570
+answer-key,https://www.businessinsider.com/breastfeeding-aversion-made-me-feel-intense-rage-2026-10,found,True,AXBjo3DIEQi2MzCjyGa8yRw,Breastfeeding my baby made me feel intense rage. Learning there was a name for it helped me feel less alone.,399
+answer-key,https://www.businessinsider.com/teaching-kids-to-set-boundaries-say-no-2026-10,found,True,A2wxsw5QvRJG_alLEB48YTw,"I'm raising my kids to be kind, but I don't want them to be people-pleasers",515
+answer-key,https://www.businessinsider.com/victorias-secret-fashion-show-details-you-missed-2026-10,found,True,Adlx_roPmTPOrxUdA7iOp9A,5 details you might have missed at the 2026 Victoria's Secret Fashion Show,445
+answer-key,https://www.economist.com/britain/2026/09/29/andy-burnham-gets-bold-at-last,found,True,ABINwcRvQQOm5Rndm1Gv-pA,Andy Burnham gets bold at last,411
+answer-key,https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety,found,True,AieLFXIKBSO-W27jTs7DF5Q,Does China really prize AI speed over safety?,262
+answer-key,https://www.economist.com/middle-east-and-africa/2026/10/08/in-a-near-catastrophe-binyamin-netanyahu-sees-an-opportunity,found,True,AGSq03gILQnCm9CJwykfiDA,"In a near-catastrophe, Binyamin Netanyahu sees an opportunity",544
+answer-key,https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race,found,True,A6K5kuOY6TJSGlmE20Z7jMQ,Becerra’s muted gubernatorial campaign comes to life in home stretch,425
+answer-key,https://www.latimes.com/politics/story/2026-09-15/mideast-escalation-risks-oil-shock-ahead-of-midterms,found,True,AO-gfogB5QiuKC2ZHFyOzDw,Mideast escalation risks an oil shock ahead of the midterms,410
+answer-key,https://www.latimes.com/politics/story/2026-10-01/bass-lawyers-help-influencers-file-complaint-against-raman-campaign,found,True,ALkLmCuOrR_aaFb3AzutUvg,Influencers filed ethics complaint against Raman campaign — with help from Bass lawyers,437
+answer-key,https://www.newyorker.com/cartoons/daily-cartoon/monday-october-19th-muse-jolly,found,True,A7SagcMY6SZ2y3AMF4nXuDw,"Daily Cartoon: Monday, October 19th",474
+answer-key,https://www.newyorker.com/culture/critics-notebook/we-can-never-understand-elizabeth-holmes-or-nathan-fielder,found,True,AwVyrh0rZQHyCiPoSNPBnMw,"We Can Never Understand Elizabeth Holmes, or Nathan Fielder",373
+answer-key,https://www.newyorker.com/news/american-chronicles/the-doxing-of-jane-doe,found,True,AiY7b_i4cS2yX2R1xZDw_IA,The Doxing of Jane Doe,445
+answer-key,https://www.nytimes.com/2026/10/19/opinion/republican-party-trump-future.html,not_found,,,,6398
+answer-key,https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html,not_found,,,,7925
+answer-key,https://www.nytimes.com/article/france-student-protests-why.html,not_found,,,,7197
+answer-key,https://www.theatlantic.com/health/2026/10/alzheimers-evolution/689062/,found,True,A0SAAgr5bRsqIMnXZOh0_oA,The Evolution of the Human Brain Set It Up for Failure,1587
+answer-key,https://www.theatlantic.com/ideas/archive/2024/05/birthday-milestone-age-happiness/678378/,found,True,AaloAJ6BaQ8OqdUZhmJzhsw,How to Be Your Best Despite the Passing Years,982
+answer-key,https://www.theatlantic.com/ideas/archive/2024/08/anxiety-young-people-happiness/679348/,found,True,AKP4FB598Srqvgl0yoVUXhw,The Best Therapy for Our Anxiety Epidemic,507
+answer-key,https://www.theatlantic.com/ideas/archive/2024/12/democrats-election-loss-identity/680993/,found,True,AqUDk6dfETS6S3LANfRb-AA,How to Move on From the Worst of Identity Politics,734
+answer-key,https://www.theatlantic.com/newsletters/2026/10/history-lessons-botched-executions/689054/,found,True,AkOjR1Sn-TfaXILEIyUUpNA,How Botched Executions Were Handled in Centuries Past,797
+answer-key,https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/,found,True,A2_tZ09PCQqe_l7ndpu3-1g,The Internet Needs a Memory,575
+answer-key,https://www.vanityfair.com/story/it-girl-jane-birkin-excerpt,found,True,Ap3GRvozJR5aVpKZdgYPdCg,How Jane Birkin Became the Namesake for the Birkin Bag,898
+answer-key,https://www.vanityfair.com/story/olivia-colman-alexander-skarsgard-wicker,found,True,AEhQlmsFiSCqxxamqet1WIg,"Olivia Colman, Alexander Skarsgård, and Elizabeth Debicki Cozy Up at the ‘Wicker’ 2026 New York After-Party",449
+answer-key,https://www.vanityfair.com/story/spoilers-elizabeth-holmes-doc-you-can-see-everything,found,True,AEEpWOO8TRt-6DFTCG7OWKw,‘You Can See Everything’: 11 Revelations From the Elizabeth Holmes Doc,532
+answer-key,https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/,found,True,AVjAqGGh8RFq9tDnFZD85wA,All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking,622
+answer-key,https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/,found,True,A9tc6LBtOTk-ZXGzU17EpiA,Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds,483
+answer-key,https://www.wired.com/story/new-york-comic-con-panel-2/,found,True,AKGxU9t1qRK-3OygqRZ4UGQ,Junji Ito’s Manga Horrors Hit Harder as Live-Action TV,562
+answer-key,https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/,found,True,AV3oPDQ_cQuCuKpbHrse8Ag,Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor,597
+answer-key,https://www.wired.com/story/slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy/,found,True,A9mfCwfYeSNKLrpPzebrN1Q,Slovakia’s Election Deepfakes Show AI Is a Danger to Democracy,612
+answer-key,https://www.wired.com/story/worst-hacks-2023/,found,True,AC_W9oLghQJG68Mw1Usn2Uw,The Worst Hacks of 2023,755
+answer-key,https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863,not_found,,,,6438
+answer-key,https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff,not_found,,,,6991
+answer-key,https://www.wsj.com/articles/news-quiz-for-october-3-2026-ad556461,not_found,,,,6922
+answer-key,https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db,not_found,,,,6752
+answer-key,https://www.wsj.com/articles/the-business-of-youth-baseball-is-booming-so-is-the-cost-b5df2aa6,not_found,,,,7363
+fresh,https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates,found,True,AwFkyvL5eTr6-Tb_OGh5ofw,Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap,1379
+fresh,https://www.bloomberg.com/news/newsletters/2026-10-19/thinking-more-about-ai-and-the-shale-boom-parallel,found,True,AtQBBHv6LQ5aTC75SfQXjWQ,Thinking More About AI and the Shale Boom Parallel,649
+fresh,https://www.economist.com/britain/2026/10/19/wanted-producer-insider,found,True,AaivnyNPUQ4yDAexwnwRRWg,"Wanted: Producer, Insider",502
+fresh,https://www.economist.com/britain/2026/10/19/the-scottish-national-party-turns-to-the-right,found,True,AMYxtM6hcSTGkvR-oreV28Q,The Scottish National Party turns to the right,512
+fresh,https://www.latimes.com/politics/story/2026-10-18/trumps-immigration-crackdown-tests-republicans-hold-on-texas-voters,found,True,AXE90Vl-wTTeBEfAKX-UAkQ,"In tight Texas Senate race, Trump's immigration crackdown tests Republicans' hold on voters",520
+fresh,https://www.latimes.com/world-nation/story/2026-10-18/mexico-hurricane-pacific-coast,found,True,AJBrn5PkgRo2v6lpl-1yQmw,Mexico's beleaguered Pacific coast braces for another storm in record hurricane year,439
+fresh,https://www.newyorker.com/magazine/2026/10/26/louise-glucks-life-in-restaurants,not_found,,,,6282
+fresh,https://www.newyorker.com/magazine/2026/10/26/blockers-exhibit-g-passengers-few-and-far-between,not_found,,,,6223
+fresh,https://nymag.com/intelligencer/article/greg-bovino-border-patrol-whiskey.html,found,True,AYt5knVfST7Kl-mVbOYC8Jw,One Bottle After Another: Greg Bovino Hawks Whiskey Now,882
+fresh,https://nymag.com/intelligencer/article/hegseth-war-on-woke-west-point-military.html,found,True,AHILh_PfsSoK8QMiF6swMwQ,The War on Woke at West Point,459
+fresh,https://www.vanityfair.com/photos/british-museum-ball-photos,not_found,,,,6212
+fresh,https://www.vanityfair.com/photos/paris-protests-photos,not_found,,,,7145
+fresh,https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/,found,True,AkqxEnwWfQh27Co2XjvZkuw,WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot,4040
+fresh,https://www.wired.com/story/nathan-fielder-tells-us-everything/,found,True,A4M18-XpJRaOgY6VeFAuYQA,Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’,1918

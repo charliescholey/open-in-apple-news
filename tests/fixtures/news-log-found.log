@@ -1,0 +1,39 @@
+2026-10-19 12:59:00.237 Df News[2714:591219] (TeaUI) Handling url route=openURL, url=https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/?utm_source=feed, options={prefersAnimations=false}
+2026-10-19 12:59:00.257 Df News[2714:591219] [com.apple.news:WebURLResolution] resolving web URL <private>
+2026-10-19 12:59:00.282 Df News[2714:591219] [com.apple.teaui:Navigation] Successfully navigated to activity: <articleWebLink(https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/?utm_source=feed)> using router <Router>
+2026-10-19 12:59:00.294 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 12:59:00.294 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 12:59:00.519 Df News[2714:591219] [com.apple.news:WebURLResolution] using bloom filter of length 143776, hash function count 10 to query <private>
+2026-10-19 12:59:00.521 Df News[2714:591219] [com.apple.news:WebURLResolution] fetching new bucket group config of version 2 because expiration date Sun Apr 27 18:53:47 2025 was in the past or cached version did not meet or exceed minimum version of 2
+2026-10-19 12:59:00.552 Df News[2714:591219] [com.apple.news:WebURLResolution] querying bucket
+2026-10-19 12:59:00.552 Df News[2714:591219] [com.apple.news:WebURLResolution] canonicalized URL is <private>
+2026-10-19 12:59:00.552 Df News[2714:591219] [com.apple.news:WebURLResolution] hash is <private>
+2026-10-19 12:59:00.552 Df News[2714:591219] [com.apple.news:WebURLResolution] bucket is 6611
+2026-10-19 12:59:00.552 Df News[2714:591219] [com.apple.news:WebURLResolution] trying fetch for lists through proxy
+2026-10-19 12:59:00.861 Df News[2714:591219] [com.apple.news:ArticleLoad] Presenting created article view controller, articleID=A2_tZ09PCQqe_l7ndpu3-1g
+2026-10-19 12:59:00.863 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 12:59:00.863 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 12:59:00.905 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did start loading, articleID=A2_tZ09PCQqe_l7ndpu3-1g
+2026-10-19 12:59:00.905 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish loading model, articleID=A2_tZ09PCQqe_l7ndpu3-1g, duration=0.000055
+2026-10-19 12:59:00.906 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish embed data, articleID=A2_tZ09PCQqe_l7ndpu3-1g, duration=0.000710
+2026-10-19 12:59:00.912 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 12:59:00.912 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 12:59:01.055 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish loading context, articleID=A2_tZ09PCQqe_l7ndpu3-1g, duration=0.149234
+2026-10-19 12:59:01.082 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish loading fonts, articleID=A2_tZ09PCQqe_l7ndpu3-1g, duration=0.176587
+2026-10-19 12:59:01.085 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader start loading linked content, articleID=A2_tZ09PCQqe_l7ndpu3-1g, duration=0.179770
+2026-10-19 12:59:01.085 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish, articleID=A2_tZ09PCQqe_l7ndpu3-1g, duration=0.179798
+2026-10-19 12:59:01.105 Df News[2714:591219] [com.apple.news:ArticleLoad] Article did finish loading, starting layout, articleID=A2_tZ09PCQqe_l7ndpu3-1g
+2026-10-19 12:59:01.168 Df News[2714:591219] [com.apple.news:ArticleLoad] Article did start retrieving paywall, loggingID=81E7FCB0-6117-450B-A2DB-2B90F4EB4258, articleID=A2_tZ09PCQqe_l7ndpu3-1g
+2026-10-19 12:59:01.168 Df News[2714:591219] [com.apple.news:ArticleLoad] Article did not create paywall, loggingID=81E7FCB0-6117-450B-A2DB-2B90F4EB4258, articleID=A2_tZ09PCQqe_l7ndpu3-1g
+2026-10-19 12:59:01.172 Df News[2714:591219] [com.apple.news:ArticleLoad] Article did finish initial layout, articleID=A2_tZ09PCQqe_l7ndpu3-1g, duration=0.066306
+2026-10-19 12:59:01.172 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader will prefetch assets, articleID=A2_tZ09PCQqe_l7ndpu3-1g
+2026-10-19 12:59:01.931 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did start loading, articleID=ACtF4N1PgQhiAS6d8fGmX5Q
+2026-10-19 12:59:01.931 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish loading model, articleID=ACtF4N1PgQhiAS6d8fGmX5Q, duration=0.000060
+2026-10-19 12:59:01.932 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish embed data, articleID=ACtF4N1PgQhiAS6d8fGmX5Q, duration=0.000535
+2026-10-19 12:59:01.935 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 12:59:01.935 Df News[2714:591219] [com.apple.UIKit:_UIVisualStyleRegistry] Note: no default visual style class registered as fallback for stylable class UIActivityIndicatorView
+2026-10-19 12:59:01.940 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish loading fonts, articleID=ACtF4N1PgQhiAS6d8fGmX5Q, duration=0.009194
+2026-10-19 12:59:01.973 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish loading context, articleID=ACtF4N1PgQhiAS6d8fGmX5Q, duration=0.041950
+2026-10-19 12:59:01.973 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader start loading linked content, articleID=ACtF4N1PgQhiAS6d8fGmX5Q, duration=0.041968
+2026-10-19 12:59:01.973 Df News[2714:591219] [com.apple.news:ArticleLoad] Article data loader did finish, articleID=ACtF4N1PgQhiAS6d8fGmX5Q, duration=0.042001
+2026-10-19 12:59:01.977 Df News[2714:591219] [com.apple.news:ArticleLoad] Article did finish loading, starting layout, articleID=ACtF4N1PgQhiAS6d8fGmX5Q
