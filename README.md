@@ -101,7 +101,7 @@ data and method are in [docs/research.md](docs/research.md).
 
 | Test | Result |
 |---|---|
-| 41 articles from 11 publishers (answer key) | 33 found, **33 correct**, 8 not in Apple News (NYT, WSJ) |
+| 41 articles from 11 publishers (answer key) | 33 found, **33 correct**, 8 not found (3 NYT, 5 WSJ) |
 | 20 fresh articles News hadn't seen | 15 found, **15 correct**, 5 not found |
 | Wrong matches | **0** |
 
@@ -109,8 +109,9 @@ Web search, the obvious alternative, found 0 of 33 of the same articles.
 
 ## Known limitations
 
-- **WSJ and NYT don't work.** News found none of the WSJ articles tested. NYT
-  isn't in Apple News.
+- **NYT doesn't work,** because it isn't in Apple News.
+- **WSJ works only partly.** Some WSJ articles resolve (for example
+  `wsj.com/tech/…`), but none of 5 older-style `wsj.com/articles/…` URLs did.
 - **News opens even on a miss.** The helper only learns the result after handing
   the URL over; on a miss, News probably shows the publisher's web page.
 - **It depends on News's log wording.** If a macOS update changes it, every

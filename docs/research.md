@@ -86,7 +86,12 @@ and Wired all resolved. Articles from 2023 and 2024 resolved too.
 
 Misses:
 
-- **WSJ:** 0 of 5 (January 2025 and October 2026).
+- **WSJ:** 0 of 5 in these runs (January 2025 and October 2026), all
+  `wsj.com/articles/…` URLs, four of them from a WSJ feed that stopped updating
+  in January 2025. Later (2026-10-29), a section-style WSJ URL
+  (`wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9`) resolved and verified
+  in 0.7 s. So WSJ is at least partly covered; the URL format is a likely but
+  unconfirmed reason for the misses.
 - **NYT:** 0 of 3. NYT isn't in Apple News.
 - **Fresh misses:** 3 New Yorker print-magazine pieces dated a week ahead
   (published online before the issue), and 2 Vanity Fair photo galleries.
@@ -106,5 +111,6 @@ Other findings:
 
 - What News shows on screen for a miss (likely the publisher's web page).
   Only the logs were checked.
-- Whether WSJ misses affect every section.
+- Why some WSJ URLs miss: possibly older `/articles/` URLs that WSJ now
+  redirects to section-style URLs. Not checked; WSJ blocks scripted requests.
 - Behaviour on other macOS or News versions.

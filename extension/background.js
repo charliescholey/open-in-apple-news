@@ -97,7 +97,7 @@ function describe(tabId, result) {
   if (result.status === "not_found") {
     return report(tabId, "missing",
       "Apple News doesn't have this article. News may show the publisher's web page instead. " +
-      "(WSJ and NYT articles aren't matched.)",
+      "(NYT isn't in Apple News, and some WSJ articles aren't matched.)",
       result, { notify: true });
   }
   return report(tabId, "error", result.message || "Something went wrong.", result, { notify: true });

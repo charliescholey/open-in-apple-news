@@ -26,8 +26,8 @@ from urllib.parse import urlsplit
 
 VERSION = "1.0.0"
 
-# Measured on News 12.0: hits log their article ID 0.26-0.85s after News
-# receives the URL (32 articles). Anything still unresolved after this is a miss.
+# Measured on News 12.0: hits log their article ID 0.26-1.47s after News
+# receives the URL (40 articles). Anything still unresolved after this is a miss.
 RESOLVE_TIMEOUT = 6.0
 # Upper bound for News to receive the URL at all (covers a cold launch).
 HANDOFF_TIMEOUT = 20.0
